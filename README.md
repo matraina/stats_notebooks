@@ -7,6 +7,7 @@ Overview
 
 This repository contains a series of Jupyter Notebooks, each dedicated to a specific topic within statistics and probability. Examples are taken from the following books: 
 - https://link.springer.com/book/10.1007/978-3-319-62840-0  (Luca Lista's Statistical Methods for Data Analysis in Particle Physics)
+- https://global.oup.com/academic/product/one-thousand-exercises-in-probability-9780198847618?cc=us&lang=en& (Grimmett's and Stirzaker's One Thousand Exercises in Probability)
 - 
 
 To get started, clone this repository and ensure you have Jupyter Notebook installed on your machine. You can install Jupyter Notebook via Anaconda or pip:
