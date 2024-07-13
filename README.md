@@ -5,7 +5,7 @@ Welcome to stats_notebooks, where I delve into the fascinating world of statisti
 
 Overview
 
-This repository contains a series of Jupyter Notebooks, each dedicated to a specific topic within statistics and probability. Examples are taken from the following books/links: 
+This repository contains a series of Jupyter Notebooks, each dedicated to a specific problem/topic within statistics and probability. Examples are taken from the following books/links: 
 - https://link.springer.com/book/10.1007/978-3-319-62840-0  (Luca Lista's Statistical Methods for Data Analysis in Particle Physics)
 - https://global.oup.com/academic/product/one-thousand-exercises-in-probability-9780198847618?cc=us&lang=en& (Grimmett's and Stirzaker's One Thousand Exercises in Probability)
 - https://www.math.ucdavis.edu/~gravner/MAT135A/resources/chpr.pdf
