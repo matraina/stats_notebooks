@@ -1,7 +1,7 @@
 # stats_notebooks
 Statistics & Probability
 
-Welcome to stats_notebooks, where I delve into the fascinating world of statistics and probability! Here, I use Jupyter Notebooks to offer intuitive explanations, demonstrations, and solutions to results and problems in the field. 
+Welcome to stats_notebooks! Here, I use Jupyter Notebooks to offer intuitive explanations to problems in statistics and probability. When applicable, I generally provide both analytical and Monte-Carlo solutions. 
 
 Overview
 
