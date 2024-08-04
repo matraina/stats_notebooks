@@ -13,12 +13,12 @@ This repository contains a series of Jupyter Notebooks, each dedicated to a spec
 
 To get started, clone this repository and ensure you have Jupyter Notebook installed on your machine. You can install Jupyter Notebook via Anaconda or pip:
 
-Copy code
-pip install notebook
+Copy code\n
+pip install notebook\n
 After installation, navigate to the cloned repository's directory and run the following command to start Jupyter Notebook:
 
-Copy code
-jupyter notebook
+Copy code\n
+jupyter notebook\n
 This will open the Jupyter Notebook interface in your web browser, where you can open and interact with the notebooks.
 
 License
